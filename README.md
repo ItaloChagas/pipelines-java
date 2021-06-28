@@ -1,4 +1,10 @@
 
+
+## Status
+
+[![Build Status](https://azuredevops.fleetcor.com.br/Fleetcor/ALM/_apis/build/status/ALM-Maven-CI%20(1)?branchName=master)](https://azuredevops.fleetcor.com.br/Fleetcor/ALM/_build/latest?definitionId=1828&branchName=master)
+
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
